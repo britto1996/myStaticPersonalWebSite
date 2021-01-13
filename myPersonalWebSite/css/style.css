@@ -1,0 +1,38 @@
+.profile {
+    width: 15%;
+}
+
+.profile-header {
+    text-align: center;
+    background-color: #fdffbc;
+    margin: 50px 25px 50px 25px;
+    padding: 50px 25px 50px 25px;
+}
+
+
+.mySkills {
+    text-align: center;
+    background-color: #dfe0df;
+    margin: 50px 25px 50px 25px;
+    padding: 50px 25px 50px 25px;
+}
+
+.myProjects {
+    text-align: center;
+    background-color: #cae4db;
+    margin: 50px 25px 50px 25px;
+    padding: 50px 25px 50px 25px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.contact {
+    text-align: end;
+}
+
+
+
+
+
