@@ -17,6 +17,22 @@
     padding: 50px 25px 50px 25px;
 }
 
+
+
+.mongoDB,
+.express,
+.react,
+.nodeJS {
+    display: flex;
+}
+
+.btm-chat,
+.btm-commerce,
+.social-site,
+.btm-ticktock {
+    display: flex;
+}
+
 .myProjects {
     text-align: center;
     background-color: #cae4db;
