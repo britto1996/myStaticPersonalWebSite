@@ -20,7 +20,12 @@
     padding: 50px 25px 50px 25px;
 }
 
-
+hr {
+      background-color: #23120b;
+      border-style: none;
+      width: 50%;
+      height: 2px;
+}
 
 
 
