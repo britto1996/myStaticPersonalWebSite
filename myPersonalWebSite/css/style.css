@@ -88,7 +88,7 @@ body {
     margin-top: 50px;
 }
 
-.tick1,
+/* .tick1,
 .tick2,
 .tick3,
 .tick4,
@@ -96,12 +96,9 @@ body {
 .tick6 {
     position: relative;
     display: flex;
-}
+} */
 
-.myProjectNames {
-    position: relative;
-    display: flex;
-}
+
 
 hr {
       background-color: #23120b;
@@ -122,16 +119,25 @@ hr {
 
 .social-media {
     text-align: center;
-    
+    margin-top: 50px;
 }
 
+.fb,
+.linkedin,
+.github {
+    margin: 5% 3% 5% 0%;
+}
 
+a {
+    text-decoration: none;
+}
 
 
 
 
 .footer {
     text-align: center;
+    margin-top: 50px;
 }
 
 
